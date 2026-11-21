@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 报纸主体 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L72,30 L72,78 L30,78 Z" />
+    <!-- 折角 -->
+    <path
+        android:fillColor="#C9D6E4"
+        android:pathData="M72,30 L80,38 L80,78 L72,78 Z" />
+    <!-- 标题条 -->
+    <path
+        android:fillColor="#1F4E79"
+        android:pathData="M36,37 L66,37 L66,43 L36,43 Z" />
+    <!-- 正文行 -->
+    <path
+        android:fillColor="#9BB0C4"
+        android:pathData="M36,49 L66,49 L66,52 L36,52 Z" />
+    <path
+        android:fillColor="#9BB0C4"
+        android:pathData="M36,57 L66,57 L66,60 L36,60 Z" />
+    <path
+        android:fillColor="#9BB0C4"
+        android:pathData="M36,65 L58,65 L58,68 L36,68 Z" />
+    <!-- 铃铛 -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M78,62 L78,56 C78,51.6 80.7,47.9 84.5,47.1 L84.5,45 L86.5,45 L86.5,47.1 C90.3,47.9 93,51.6 93,56 L93,62 L95,62 L95,65 L76,65 L76,62 Z" />
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M83.5,66 C83.5,68.2 85,69.7 87,69.7 C89,69.7 90.5,68.2 90.5,66 Z" />
+</vector>
